@@ -12,7 +12,7 @@ Search for any keyword and instantly get high-quality images.
 ## 🛠 Tech Stack
 - React
 - Vite
-- CSS
+- Tailwind CSS
 - Pexels REST API
 
 
