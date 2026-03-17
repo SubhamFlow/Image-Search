@@ -5,7 +5,7 @@ Search for any keyword and instantly get high-quality images.
 
 ## 🚀 Features
 - Search images by keyword
-- Fast and responsive UI
+- Fast and responsive UI 
 - Powered by Pexels API
 - Clean and modern design
 
