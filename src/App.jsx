@@ -1,5 +1,5 @@
 import { useState,useEffect } from 'react'
-// ssetting api
+// setting api
 const apikey = import.meta.env.VITE_PEXELS_API_KEY;
 
 function App() {
