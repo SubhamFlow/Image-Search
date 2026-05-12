@@ -8,13 +8,14 @@ function App() {
   const [btnval, setbtnval] = useState(0)
   const [loader, setloader] = useState(false)
   
-  // let query="Taj mahal in India"
+
   useEffect(() => {
     async function test() {
       const proxy="https://www.pexels.com/search/proxy%20server/"
       if(query.length<=0){
         return
       }
+      // Query set to India by default
       const data=await fetch(`https://api.pexels.com/v1/search?query=${query}&per_page=100`,{
         headers:{
           Authorization:apikey
